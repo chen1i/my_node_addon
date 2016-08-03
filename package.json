@@ -1,5 +1,12 @@
 {
+  "name": "addon-hook",
+  "version": "0.0.1",
+  "description": "Node.js Addon Example",
+  "main": "index.js",
   "dependencies": {
     "nan": "^2.4.0"
+  },
+  "scripts": {
+    "test": "node index.js"
   }
 }
